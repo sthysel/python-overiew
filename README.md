@@ -1,2 +1,4 @@
-# python-overiew
+# python-overview
+
 Concise Python overview resources
+
