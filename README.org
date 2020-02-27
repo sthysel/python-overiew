@@ -1,0 +1,10 @@
+#+title:Concise Python Overview resources
+
+Concise Python overview resources
+
+* Sweet cheatsheets
+
+| Sheet         | Author          | Source                                                                        |
+|---------------+-----------------+-------------------------------------------------------------------------------|
+| [[./cheatsheets/mementopython3-english.pdf][Memento Sheet]] | Laurent Pointal | https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf |
+| [[./cheatsheets/py3 in one pic.png][Mindmapp]]      | [[https://github.com/coodict][coodict]]         | https://github.com/coodict/python3-in-one-pic                                 |
