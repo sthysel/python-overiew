@@ -1,8 +1,6 @@
 #+title:Concise Python Overview resources
 
-Concise Python overview resources
 
-* Sweet cheatsheets
 
 | Sheet         | Author          | Source                                                                        |
 |---------------+-----------------+-------------------------------------------------------------------------------|
